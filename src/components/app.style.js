@@ -1,10 +1,10 @@
 import styled from "styled-components";
 
 export const AppContainer = styled.div`
-  height: 37vh;
+  height: 100vh;
   display: flex;
   justify-content: center;
-  padding: 300px;
+  align-items:center;
 
 background-color:${(props) => props.theme.backgroundColor};
 color:${(props) => props.theme.color};
