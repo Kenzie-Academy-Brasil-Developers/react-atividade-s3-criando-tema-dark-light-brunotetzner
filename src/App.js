@@ -1,4 +1,3 @@
-import "./App.css";
 import { useCallback, useState } from "react";
 import { AppContainer, MainSection } from "./components/app.style";
 import { ThemeProvider } from "styled-components";
